@@ -12,8 +12,6 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KGN-BOTS/Mahesh-babu-bot)   
 [![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/KGN-BOTS/Mahesh-babu-bot/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/KGN-BOTS/Mahesh-babu-bot)
-
 
 ## Features
 
@@ -123,8 +121,3 @@ python3 bot.py
 
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
 Fork the repo and edit as per your needs.
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/KGN-BOTS/Mahesh-babu-bot/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
