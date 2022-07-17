@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+<p align="center"><img src="https://telegra.ph/file/1f01bcbe6eb031ee3e381.jpg" width="2000"></a></p>
+
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Mahesh-babu-bot</b>
 </h1>
 
 
@@ -41,19 +41,17 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). 
+
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/KGN-BOTS/Mahesh-babu-bot/blob/master/info.py) for more
 
 
 ## Deploy
 You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
