@@ -1,6 +1,7 @@
 {
     "name": "Mahesh-babu-bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "logo": "https://telegra.ph/file/1f01bcbe6eb031ee3e381.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
